@@ -1,7 +1,7 @@
 /*
 	Alex Fang
 	4/2/19
-	COEN 12 LAB #1
+	COEN 12 LAB #1.c
 	Description: Counting number of words in a file
 */
 
