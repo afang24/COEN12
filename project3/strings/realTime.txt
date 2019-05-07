@@ -1,0 +1,33 @@
+String Implementation
+---------------------
+
+Average: unique
+------
+                                hashing
+GreenEggsAndHam.txt             0.013
+Macbeth.txt                     0.0127
+Genesis.txt                     0.0137
+HoundOfTheBaskervilles.txt      0.020
+TheWarOfTheWorlds.txt           0.021
+TreasureIsland.txt              0.022
+TheSecretGarden.txt             0.024
+TwentyThousandLeagues.txt       0.0247
+TheCountOfMonteCristo.txt       0.0877
+Bible.txt                       0.0937
+
+
+Average: parity
+------
+                                hashing
+GreenEggsAndHam.txt             0.008s
+Macbeth.txt                     0.0147
+Genesis.txt                     0.021
+HoundOfTheBaskervilles.txt      0.025
+TheWarOfTheWorlds.txt           0.026
+TreasureIsland.txt              0.0267
+TheSecretGarden.txt             0.031
+TwentyThousandLeagues.txt       0.035
+TheCountOfMonteCristo.txt       0.1587
+Bible.txt                       0.2057
+
+
